@@ -1,5 +1,9 @@
 <?php 
 
+
+ /**
+  *Switch Case ek control structure hai jo multiple conditions ko efficiently handle karne ke liye use hota hai. Agar aapke paas multiple conditions ho, to if-else ke bajaye switch ka use karna fast aur readable hota hai.
+  */
  $membership = "platinum";
  $orderAmount = 2000;
 
